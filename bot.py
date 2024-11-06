@@ -54,3 +54,4 @@ class Bot(Client):
         
 bot = Bot()
 bot.run()
+Expose 3306
